@@ -1,0 +1,43 @@
+#div1, #div2 {
+        display: block;
+        margin: auto;
+        width: 50%;
+
+}
+body {
+        color: #1A5276 ;
+        background-color: #f9f8f6;
+        font-family: Georgia, Times, serif;
+        line-height: 1.4em;
+        margin: 0px;
+}
+
+#content {
+        width: 940px;
+        margin: 20px auto 20px auto;
+        border: 2px solid purple;
+        background-color: #ABB2B9 ;
+}
+form{
+        border: 8px solid;
+        border-color: #ffffff;
+        padding: 15px;
+}
+
+input{
+    size: 150px;
+}
+button{
+        font-size: 15px;
+        float: right;
+}
+
+tr:nth-child(even) {
+  background-color: #D5D8DC;
+}
+table {
+  width: 100%;
+}
+th, td{
+    text-align: left;
+}
